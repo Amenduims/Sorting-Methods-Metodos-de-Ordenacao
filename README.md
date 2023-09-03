@@ -1,7 +1,7 @@
 ## Métodos de Ordenação
 Este repositório fornece implementações dos seguintes métodos de ordenação em várias linguagens de programação:
 
-## [Bubble Sort](bubbleSort.c)
+## [Bubble Sort](BubbleSort.c)
 O Bubble Sort é um algoritmo de ordenação simples que funciona comparando pares de elementos adjacentes e trocando-os se estiverem fora de ordem. Este processo é repetido até que nenhuma troca seja necessária. Embora seja fácil de entender, não é eficiente para grandes conjuntos de dados.
 
 ## [Selection Sort](SelectionSort.c)
